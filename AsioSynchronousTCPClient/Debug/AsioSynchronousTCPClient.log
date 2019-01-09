@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+c:\users\tpaud\documents\visual studio 2015\projects\boostasio\asiosynchronoustcpclient\stdafx.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AsioSynchronousTCPClient.cpp
+  AsioSynchronousTCPClient.vcxproj -> C:\Users\tpaud\documents\visual studio 2015\Projects\boostAsio\Debug\AsioSynchronousTCPClient.exe
+  AsioSynchronousTCPClient.vcxproj -> C:\Users\tpaud\documents\visual studio 2015\Projects\boostAsio\Debug\AsioSynchronousTCPClient.pdb (Full PDB)
