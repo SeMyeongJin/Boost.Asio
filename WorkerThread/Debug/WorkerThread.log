@@ -1,0 +1,6 @@
+﻿  WorkerThread.cpp
+c:\users\tpaud\documents\visual studio 2015\projects\boostasio\workerthread\workerthread.cpp(48): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'time_t'
+  c:\users\tpaud\documents\visual studio 2015\projects\boostasio\workerthread\workerthread.cpp(48): note: consider using '%lld' in the format string
+  c:\users\tpaud\documents\visual studio 2015\projects\boostasio\workerthread\workerthread.cpp(48): note: consider using '%I64d' in the format string
+  WorkerThread.vcxproj -> C:\Users\tpaud\documents\visual studio 2015\Projects\boostAsio\Debug\WorkerThread.exe
+  WorkerThread.vcxproj -> C:\Users\tpaud\documents\visual studio 2015\Projects\boostAsio\Debug\WorkerThread.pdb (Full PDB)
